@@ -3,7 +3,15 @@
 - 🌱 I’m currently learning : IOT and Car Hacking
 - 💞️ I’m looking to collaborate on Cyber Security opportunities 
 
+## About Me
+- :mortar_board: Certified Ethical Hacker (CEH) , OSCP and CRTP Ccertified , Part time Bug Bounty Hunter
+- :computer: Cybersecurity Analyst at [Accenture]
+- :key: Expert in penetration testing and vulnerability assessment
+- :lock_with_ink_pen: Advocate for privacy and data protection
+- :telescope: Constantly exploring the latest in cybersecurity trends
+
 ## Skills
+
 - :firewall: Network Security
 - :lock_with_key: Encryption
 - :mag_right: Threat Intelligence
