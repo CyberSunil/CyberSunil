@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberSunil
+- 👋 Hi, I’m Sunil Kumar Tripathy @CyberSunil
 - 👀 I’m interested in Ethical Hacking and IOT Pentest
 - 🌱 I’m currently learning : IOT and Car Hacking
 - 💞️ I’m looking to collaborate on Cyber Security opportunities 
@@ -12,8 +12,8 @@
 
 ## Skills
 
-- :firewall: Network Security
-- :lock_with_key: Encryption
+- 🛡️ Web Application Security
+- 🔐 Network Security
 - :mag_right: Threat Intelligence
 - :gear: Security Architecture
 - :rocket: Incident Response
