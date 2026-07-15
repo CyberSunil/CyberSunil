@@ -1,10 +1,5 @@
-## 💫 About Me:
-🚩 I’m currently working on Web, API, Cloud & AI Security Assessments
-👯 I’m looking to collaborate on Red Teaming, Purple Teaming, and Open Source Security projects
-🤝 I’m looking for help with Advanced Adversary Simulation, Malware Analysis, and Detection Engineering
-🌱 I’m currently learning AI Security, Cloud Exploitation, and Evasion Techniques
-💬 Ask me about Penetration Testing, Red Teaming, Secure Code Review, and Application Security
-⚡ Fun fact: I enjoy breaking systems legally to help make them more secure.
+# 💫 About Me:
+🚩 I’m currently working on Web, API, Cloud & AI Security Assessments<br>👯 I’m looking to collaborate on Red Teaming, Purple Teaming, and Open Source Security projects<br>🤝 I’m looking for help with Advanced Adversary Simulation, Malware Analysis, and Detection Engineering<br>🌱 I’m currently learning AI Security, Cloud Exploitation, and Evasion Techniques<br>💬 Ask me about Penetration Testing, Red Teaming, Secure Code Review, and Application Security<br>⚡ Fun fact: I enjoy breaking systems legally to help make them more secure.
 
 
 # 💻 Tech Stack:
