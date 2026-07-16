@@ -10,7 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyberSunil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSunil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
