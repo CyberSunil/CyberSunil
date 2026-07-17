@@ -11,7 +11,12 @@
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=for-the-badge)](https://github.com/CyberSunil/LLMVault)
+## 🚀 Featured Project
+
+[![LLMVault Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=for-the-badge&logo=github)](https://github.com/CyberSunil/LLMVault)
+[![LLMVault Forks](https://img.shields.io/github/forks/CyberSunil/LLMVault?style=for-the-badge&logo=github)](https://github.com/CyberSunil/LLMVault)
+
+**LLMVault** • OWASP LLM Top 10 Hands-on Training Platform
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSunil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
