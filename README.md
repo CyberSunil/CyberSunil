@@ -10,6 +10,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyberSunil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+[![GitHub Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=for-the-badge)](https://github.com/CyberSunil/LLMVault)
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSunil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
