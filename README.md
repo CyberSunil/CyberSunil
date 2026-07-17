@@ -13,23 +13,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSunil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-<h2 align="center">⚡ LIVE CONTRIBUTION MONITOR</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/CyberSunil/CyberSunil/main/assets/neon-pulse.svg"
-    alt="Live Contribution Monitor"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberSunil&theme=github-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area=true&area_color=7C3AED" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CyberSunil&style=for-the-badge&color=7C3AED"/>
-</p>
