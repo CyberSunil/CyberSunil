@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🏆 Highlights
 
 [![LLMVault Stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=for-the-badge&logo=github)](https://github.com/CyberSunil/LLMVault)
 [![LLMVault Forks](https://img.shields.io/github/forks/CyberSunil/LLMVault?style=for-the-badge&logo=github)](https://github.com/CyberSunil/LLMVault)
