@@ -14,10 +14,10 @@
 
 ---
 
-## 🐍 Cyber Snake
+## 🐍 Commit Snake
  
 <div align="center">
-<img src="./assets/cyber-snake.svg" alt="Cyber Snake devouring my contributions" />
+<img src="./assets/commit-snake.svg" width="100%" alt="Commit Snake eating contributions until it hits a vulnerability — GAME OVER" />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
