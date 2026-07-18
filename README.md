@@ -12,4 +12,12 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=CyberSunil&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+---
+
+## 🐍 Cyber Snake
+ 
+<div align="center">
+<img src="./assets/cyber-snake.svg" alt="Cyber Snake devouring my contributions" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
