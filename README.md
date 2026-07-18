@@ -17,7 +17,7 @@
 ## 🐍 Commit Snake
  
 <div align="center">
-<img src="./assets/commit-snake.svg" width="100%" alt="Commit Snake eating contributions until it hits a vulnerability — GAME OVER" />
+<img src="./assets/cyber-snake.svg" width="100%" alt="Commit Snake eating contributions until it hits a vulnerability — GAME OVER" />
 </div>
 
 
