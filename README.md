@@ -14,7 +14,7 @@
 
 ---
 
-## 🐍 Commit Snake
+## 🐍 𝑪𝒚𝒃𝒆𝒓𝑺𝒆𝒓𝒑𝒆𝒏𝒕
  
 <div align="center">
 <img src="./assets/cyber-snake.svg" width="100%" alt="Commit Snake eating contributions until it hits a vulnerability — GAME OVER" />
